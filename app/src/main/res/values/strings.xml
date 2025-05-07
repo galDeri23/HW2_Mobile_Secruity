@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">HW2_Mobile_Secruity</string>
+    <string name="url">https://pastebin.com/raw/‌‌‌T67TVJG9</string>
+
+    <string name="desc_game_up">Move Up</string>
+    <string name="desc_game_down">Move Down</string>
+    <string name="desc_game_left">Move Left</string>
+    <string name="desc_game_right">Move Right</string>
+</resources>
